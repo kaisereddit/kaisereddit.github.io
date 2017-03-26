@@ -1,0 +1,10 @@
+Package: com.kaisereddit.sharinganlockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kaisereddit <cisyjohn@gmail.com>
+Depends: LockGlyph
+Size: <deb in bytes>
+Section: Themes
+Description: A LockGlyph theme of a sharingan. This was requested by u/skyress4595 on r/jailbreak. Note: Includes custom unlock sound. 
+Author: Kaisereddit <cisyjohn@gmail.com>
+Name: LockGlyph Sharingan Theme

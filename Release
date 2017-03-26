@@ -1,0 +1,8 @@
+Origin: Kaisereddit's Repo 
+Label: Kaiser's Repo	
+Suite: stable
+Version: 1.0
+Codename: Kaiserepo
+Architectures: iphoneos-arm
+Components: main
+Description: Kaiser's Repo!
