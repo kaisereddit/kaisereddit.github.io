@@ -3,8 +3,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Kaisereddit <cisyjohn@gmail.com>
 Depends: LockGlyph
-Size: <deb in bytes>
+Filename: /LockGlyphSharingan.deb
+Size: 380928
+MD5sum: 30c97e07283dee43ad14e137581f68f8
+SHA1: b847e1699837e7f6f5c0ea5f5127cd093ecb53b0
+SHA256: a4a94ec7b2a61e67e8042a30214c76b6c5722077795e5fdd3fa152d260db5143
 Section: Themes
 Description: A LockGlyph theme of a sharingan. This was requested by u/skyress4595 on r/jailbreak. Note: Includes custom unlock sound. 
 Author: Kaisereddit <cisyjohn@gmail.com>
 Name: LockGlyph Sharingan Theme
+	
