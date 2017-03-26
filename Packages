@@ -2,7 +2,6 @@ Package: com.kaisereddit.sharinganlockglyph
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Kaisereddit <cisyjohn@gmail.com>
-Depends: LockGlyph
 Filename: /LockGlyphSharingan.deb
 Size: 380928
 MD5sum: 30c97e07283dee43ad14e137581f68f8
